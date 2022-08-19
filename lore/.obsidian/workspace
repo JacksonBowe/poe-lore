@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "fcfb03137945bad6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6de62122cfd0ac3c",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee2b59a7a8edc8e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac9d8fe88690ab51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d47d318cde9039a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6648fbcb5abf7f20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5a485f9d736c76e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ceb51a1e8024b9ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "31f49f0a3beeafc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4e34fd45e33f3d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcc8d779d7a73d36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f13171acf9c523b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "271351976a8860d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "6de62122cfd0ac3c",
+  "lastOpenFiles": [
+    "Order of the Djinn.md",
+    "Currency/Fragment/Scarabs/Sulphite/Rusted Sulphite Scarab.md",
+    "Currency/Fragment/Scarabs/Shaper/Rusted Shaper Scarab.md",
+    "Currency/Fragment/Scarabs/Legion/Rusted Legion Scarab.md",
+    "Currency/Fragment/Scarabs/Harbinger/Rusted Harbinger Scarab.md",
+    "Currency/Fragment/Scarabs/Elder/Rusted Elder Scarab.md",
+    "Currency/Fragment/Scarabs/Cartography/Gilded Cartography Scarab.md",
+    "Currency/Fragment/Scarabs/Perandus/Polished Perandus Scarab.md",
+    "Currency/Fragment/Scarabs/Cartography/Rusted Cartography Scarab.md",
+    "Templates/Historic Figure Template.md"
+  ]
+}
